@@ -1,7 +1,16 @@
 ### Hi there 👋
 
+# Full Stack Developer
+> I love Js, Node, React, Java and Open Source. 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natancabral/)](https://www.linkedin.com/in/natancabral/)
+<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/natancabraldev/)](https://www.instagram.com/natancabraldev/) -->
+
 <!--
 **natancabral/natancabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+##### Hi there! Feel free to message me :)
+
 
 Here are some ideas to get you started:
 
