@@ -6,11 +6,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natancabral/)](https://www.linkedin.com/in/natancabral/)
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/natancabraldev/)](https://www.instagram.com/natancabraldev/) -->
 
+[![Natan Cabral's Github States](https://github-readme-stats.vercel.app/api?username=natancabral&show_icons=true&theme=dracula)](https://github.com/natancabral/github-readme-stats)
+
 <!--
 **natancabral/natancabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ##### Hi there! Feel free to message me :)
-
 
 Here are some ideas to get you started:
 
