@@ -8,6 +8,8 @@
 
 [![Natan Cabral's Github States](https://github-readme-stats.vercel.app/api?username=natancabral&show_icons=true&theme=dracula)](https://github.com/natancabral/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natancabral&layout=compact&langs_count=8&theme=dracula)](https://github.com/natancabral)
+
 <!--
 **natancabral/natancabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,8 +50,3 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40" />
 </p>
-
-
-[![Christy's github stats](https://github-readme-stats.vercel.app/api?username=natancabral&count_private=true&show_icons=true&theme=vue)](https://github.com/natancabral)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natancabral&layout=compact&langs_count=8&theme=vue)](https://github.com/natancabral)
