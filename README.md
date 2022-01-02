@@ -8,12 +8,12 @@
 
 [![Natan Cabral's Github States](https://github-readme-stats.vercel.app/api?username=natancabral&show_icons=true&theme=dracula)](https://github.com/natancabral/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natancabral&layout=compact&langs_count=8&theme=dracula)](https://github.com/natancabral)
-
 <!--
 **natancabral/natancabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ##### Hi there! Feel free to message me :)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natancabral&layout=compact&langs_count=8&theme=dracula)](https://github.com/natancabral)
 
 Here are some ideas to get you started:
 
