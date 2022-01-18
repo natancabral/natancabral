@@ -52,13 +52,5 @@ Here are some ideas to get you started:
 
 ## 🚀 Author
 
-<table width="100%">
-  <tr>
-    <td>
-       <img src="https://github.com/natancabral/pdfkit-table/blob/main/example/logo.png" width="100"/>
-    </td>
-    <td>
-       <img src="https://github.com/natancabral/node-express-reload/blob/main/images/logo.png"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/natancabral/pdfkit-table/blob/main/example/logo.png" width="250"/>
+<img src="https://github.com/natancabral/node-express-reload/blob/main/images/logo.png" width="250"/>
