@@ -71,6 +71,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 🎁
 -->
 
+## 🚀 GitHub
+
+<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/natancabraldev/)](https://www.instagram.com/natancabraldev/) -->
+
+[![Natan Cabral's Github States](https://github-readme-stats.vercel.app/api?username=natancabral&show_icons=true&theme=)](https://github.com/natancabral/github-readme-stats)
+
 ## 🚀 Stuff I've worked with 
 
 <p align="left">
@@ -93,8 +99,3 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40" />
 </p>
-
-<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/natancabraldev/)](https://www.instagram.com/natancabraldev/) -->
-
-[![Natan Cabral's Github States](https://github-readme-stats.vercel.app/api?username=natancabral&show_icons=true&theme=dracula)](https://github.com/natancabral/github-readme-stats)
-
