@@ -5,6 +5,8 @@
 
 ## ⚡ Author
 
+<!-- https://api.npmjs.org/downloads/point/1970-01-01:2038-01-19/pdfkit-table -->
+
 <table>
   <tr>
     <td>
@@ -12,6 +14,9 @@
     </td>
     <td>
       Description
+    </td>
+    <td>
+      Link
     </td>
     <td>
       Logotipo
@@ -25,6 +30,9 @@
        Helps to draw informations in simple tables using pdfkit. #server-side. Generate pdf tables with javascript (PDFKIT plugin) 
     </td>
     <td>
+      https://www.npmjs.com/package/pdfkit-table
+    </td>
+    <td>
       <img src="https://github.com/natancabral/pdfkit-table/blob/main/example/logo.png" width="250"/>
     </td>
   </tr>
@@ -34,6 +42,9 @@
     </td>
     <td>
       Restart host running server express.js, kill process, kill port, reload express.js and install packages NPM.
+    </td>
+    <td>
+      https://www.npmjs.com/package/node-express-reload
     </td>
     <td>
       <img src="https://github.com/natancabral/node-express-reload/blob/main/images/logo.png" width="300"/>
