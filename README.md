@@ -10,9 +10,9 @@
 
 ## ⚡ Author
 
-#### ✨ _special_ ✨ pdfkit-table
+#### ✨ _pdfkit-table_ ✨ 
 <img src="https://github.com/natancabral/pdfkit-table/blob/main/example/logo.png" width="250"/>
-#### node-express-reload
+#### ✨ _node-express-reload_ ✨ 
 <img src="https://github.com/natancabral/node-express-reload/blob/main/images/logo.png" width="250"/>
 
 <!--
