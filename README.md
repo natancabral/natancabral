@@ -8,6 +8,13 @@
 
 [![Natan Cabral's Github States](https://github-readme-stats.vercel.app/api?username=natancabral&show_icons=true&theme=dracula)](https://github.com/natancabral/github-readme-stats)
 
+## ⚡ Author
+
+#### ✨ _special_ ✨ pdfkit-table
+<img src="https://github.com/natancabral/pdfkit-table/blob/main/example/logo.png" width="250"/>
+#### node-express-reload
+<img src="https://github.com/natancabral/node-express-reload/blob/main/images/logo.png" width="250"/>
+
 <!--
 **natancabral/natancabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,13 +56,3 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40" />
 </p>
-
-## ⚡ Author
-
-
-<img src="https://github.com/natancabral/pdfkit-table/blob/main/example/logo.png" width="250"/>
-
-<img src="https://github.com/natancabral/node-express-reload/blob/main/images/logo.png" width="250"/>
-
-
-<img src="https://github.com/natancabral/pdfkit-table/blob/main/example/logo.png" width="250"/><img src="https://github.com/natancabral/node-express-reload/blob/main/images/logo.png" width="250"/>
