@@ -49,3 +49,14 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40" />
 </p>
+
+<table width="100%">
+  <tr>
+    <td>
+       <img src="https://github.com/natancabral/pdfkit-table/blob/main/example/logo.png"/>
+    </td>
+    <td>
+       <img src="https://github.com/natancabral/node-express-reload/blob/main/images/logo.png"/>
+    </td>
+  </tr>
+</table>
