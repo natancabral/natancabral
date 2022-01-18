@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <table width="100%">
   <tr>
     <td>
-       <img src="https://github.com/natancabral/pdfkit-table/blob/main/example/logo.png"/>
+       <img src="https://github.com/natancabral/pdfkit-table/blob/main/example/logo.png" style="margin:20px"/>
     </td>
     <td>
        <img src="https://github.com/natancabral/node-express-reload/blob/main/images/logo.png"/>
