@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 🎁
 -->
 
-## 🚀 GitHub
+## 🔭 GitHub
 
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/natancabraldev/)](https://www.instagram.com/natancabraldev/) -->
 
