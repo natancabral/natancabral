@@ -1,26 +1,45 @@
-##### Hi there 👋 My name is Natan Cabral
+##### Hi there 👋 My name is Natan Cabral [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natancabral/)](https://www.linkedin.com/in/natancabral/)
 
 # Full Stack Developer
 > I love JavaScript, Node.js, React.js, Java, Open Source and **Buzz** (my best border collie friend)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natancabral/)](https://www.linkedin.com/in/natancabral/)
-<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/natancabraldev/)](https://www.instagram.com/natancabraldev/) -->
-
-[![Natan Cabral's Github States](https://github-readme-stats.vercel.app/api?username=natancabral&show_icons=true&theme=dracula)](https://github.com/natancabral/github-readme-stats)
-
 ## ⚡ Author
 
-- <img src="https://github.com/natancabral/pdfkit-table/blob/main/example/logo.png" width="250"/>
-- <img src="https://github.com/natancabral/pdfkit-table/blob/main/example/logo.png" width="250"/>
-
-#### ✨ _pdfkit-table_ ✨ 
-<img src="https://github.com/natancabral/pdfkit-table/blob/main/example/logo.png" width="250"/>
-```
-aa
-```
-
-#### ✨ _node-express-reload_ ✨ 
-<img src="https://github.com/natancabral/node-express-reload/blob/main/images/logo.png" width="250"/>
+<table>
+  <tr>
+    <td>
+      Package
+    </td>
+    <td>
+      Description
+    </td>
+    <td>
+      Logotipo
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>pdfkit-table</strong>
+    </td>
+    <td>
+       Helps to draw informations in simple tables using pdfkit. #server-side. Generate pdf tables with javascript (PDFKIT plugin) 
+    </td>
+    <td>
+      <img src="https://github.com/natancabral/pdfkit-table/blob/main/example/logo.png" width="250"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>node-express-reload</strong>
+    </td>
+    <td>
+      Restart host running server express.js, kill process, kill port, reload express.js and install packages NPM.
+    </td>
+    <td>
+      <img src="https://github.com/natancabral/node-express-reload/blob/main/images/logo.png" width="300"/>
+    </td>
+  </tr>
+</table>
 
 <!--
 **natancabral/natancabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -63,3 +82,8 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40" />
 </p>
+
+<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/natancabraldev/)](https://www.instagram.com/natancabraldev/) -->
+
+[![Natan Cabral's Github States](https://github-readme-stats.vercel.app/api?username=natancabral&show_icons=true&theme=dracula)](https://github.com/natancabral/github-readme-stats)
+
