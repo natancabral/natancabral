@@ -10,6 +10,9 @@
 
 ## ⚡ Author
 
+- <img src="https://github.com/natancabral/pdfkit-table/blob/main/example/logo.png" width="250"/>
+- <img src="https://github.com/natancabral/pdfkit-table/blob/main/example/logo.png" width="250"/>
+
 #### ✨ _pdfkit-table_ ✨ 
 <img src="https://github.com/natancabral/pdfkit-table/blob/main/example/logo.png" width="250"/>
 ```
