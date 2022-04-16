@@ -47,7 +47,7 @@
       https://www.npmjs.com/package/node-express-reload
     </td>
     <td>
-      <img src="https://github.com/natancabral/node-express-reload/blob/main/images/logo.png" width="300"/>
+      <img src="https://github.com/natancabral/node-express-reload/blob/main/public/images/logo.png" width="300"/>
     </td>
   </tr>
 </table>
