@@ -27,7 +27,7 @@
       <strong>pdfkit-table</strong>
     </td>
     <td>
-       Helps to draw informations in simple tables using pdfkit. #server-side. Generate pdf tables with javascript (PDFKIT plugin) 
+       Helps to draw informations in simple tables using pdfkit. #server-side. Generate pdf tables with javascript (PDFKIT plugin)
     </td>
     <td>
       https://www.npmjs.com/package/pdfkit-table
@@ -41,7 +41,7 @@
       <strong>node-express-reload</strong>
     </td>
     <td>
-      Restart host running server express.js, kill process, kill port, reload express.js and install packages NPM.
+      Helps to refresh your application after changes. Reload application server (hosting and cloud), kill process and install NPM packages online
     </td>
     <td>
       https://www.npmjs.com/package/node-express-reload
