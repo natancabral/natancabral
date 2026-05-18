@@ -1,7 +1,7 @@
 ##### Hi there 👋 My name is Natan Cabral [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natancabral/)](https://www.linkedin.com/in/natancabral/)
 
 # Full Stack Developer
-> I love JavaScript, Node.js, React.js, Java, Open Source and **Buzz** (my best border collie friend)
+> I love Java, Golang, JavaScript, Node.js, React.js, Open Source and **Buzz** (my best border collie friend)
 
 ## ⚡ Author
 
@@ -33,7 +33,21 @@
       https://www.npmjs.com/package/pdfkit-table
     </td>
     <td>
-      <img src="https://github.com/natancabral/pdfkit-table/blob/main/example/logo.png" width="250"/>
+      <img src="https://github.com/natancabral/pdfkit-table/blob/main/example/logo.png" width="400" style="width: 400px"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>server-reviver</strong>
+    </td>
+    <td>
+      Zero-dependency TypeScript library that injects a reload / kill / status HTTP endpoint into any Node.js server — Express, NestJS, Fastify, or raw http.
+    </td>
+    <td>
+      https://www.npmjs.com/package/server-reviver
+    </td>
+    <td>
+      <img src="https://github.com/natancabral/server-reviver/blob/main/public/assets/logo.png" width="400" style="width: 400px"/>
     </td>
   </tr>
   <tr>
@@ -47,7 +61,7 @@
       https://www.npmjs.com/package/node-express-reload
     </td>
     <td>
-      <img src="https://github.com/natancabral/node-express-reload/blob/main/public/images/logo.png" width="300"/>
+      <img src="https://github.com/natancabral/node-express-reload/blob/main/public/images/logo.png" width="400" style="width: 400px"/>
     </td>
   </tr>
 </table>
@@ -79,7 +93,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Stuff I've worked with 
 
-<p align="left">
+<p align="left" style="float: left;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
