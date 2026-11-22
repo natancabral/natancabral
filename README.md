@@ -64,6 +64,20 @@
       <img src="https://github.com/natancabral/node-express-reload/blob/main/public/images/logo.png" width="400" style="width: 400px"/>
     </td>
   </tr>
+  <tr>
+    <td>
+      <strong>llamafile-brain</strong>
+    </td>
+    <td>
+      Brain AI. Chat with your own files using a local AI — private, offline, no cloud. language model running on your own machine answers your questions
+    </td>
+    <td>
+      https://github.com/natancabral/llamafile-brain
+    </td>
+    <td>
+      <img src="https://github.com/natancabral/llamafile-brain/raw/main/assets/logo.png" width="400" style="width: 400px"/>
+    </td>
+  </tr>
 </table>
 
 <!--
