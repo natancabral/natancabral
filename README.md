@@ -6,6 +6,8 @@
   <a href="https://github.com/natancabral"><img src="https://img.shields.io/github/followers/natancabral?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
 </p>
 
+
+<h1 align="center">Senior Software Engineer</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
