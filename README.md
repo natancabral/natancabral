@@ -7,8 +7,8 @@
 </p>
 
 
-<h1 align="center">Senior Software Engineer</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Senior Software Engineer And</h3>
+<h4 align="center">Full Stack Developer</h4>
 
 <p align="center">
   <i>I love Java, Golang, JavaScript, Node.js, React.js, Open Source and <b>Buzz</b> (my best border collie friend) 🐕</i>
